@@ -10,3 +10,8 @@ Requirements
  - NeuroPy [link](https://github.com/lihas/NeuroPy)
  - numpy
  - Kivy
+
+
+# Demo
+
+ ![demo](media/proje.gif)
