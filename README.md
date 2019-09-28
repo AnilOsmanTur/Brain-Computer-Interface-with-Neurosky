@@ -9,6 +9,7 @@ Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyo
  - To be able to discriminate the thoughts we employed some machine learning algorithms.
 
 Requirements
+------------
 ~~~~
  - NeuroPy
  - numpy
