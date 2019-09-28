@@ -4,6 +4,9 @@ Introduction
 ------------
 Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyone to use a computer, mobilephone etc.
  
+ - We developed this for a BCI development competition and won the first place.
+ - We used the EEG signals from the Neurosky Mindwave Mobile 2 to let the user to use a computer with his/her thoughts and eye blinks.
+ - To be able to discriminate the thoughts we employed some machine learning algorithms.
 
 Requirements
 ~~~~
