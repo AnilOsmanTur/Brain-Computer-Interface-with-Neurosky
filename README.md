@@ -16,3 +16,7 @@ Requirements
 # Demo
 
 ![demo gif](media/proje.gif)
+
+## Creators
+
+[Anıl Osman Tur](github.com/AnilOsmanTur), [Sinan Gençoğlu](github.com/SinanGncglu), [Mert Bacak](github.com/vlstyxz)
