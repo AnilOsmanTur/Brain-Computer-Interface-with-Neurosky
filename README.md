@@ -23,4 +23,4 @@ Requirements
 
 ## Creators
 
-[Anıl Osman Tur](github.com/AnilOsmanTur), [Sinan Gençoğlu](github.com/SinanGncglu), [Mert Bacak](github.com/vlstyxz)
+[Anıl Osman Tur](https://www.github.com/AnilOsmanTur), [Sinan Gençoğlu](https://www.github.com/SinanGncglu), [Mert Bacak](https://www.github.com/vlstyxz)
